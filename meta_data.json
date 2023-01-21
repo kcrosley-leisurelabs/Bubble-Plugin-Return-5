@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "description": "Returns 5. Because that's a useful thing.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1549739555589x442082552619038140/PS_Dot_Outline.svg",
+    "instructions": "",
+    "license": "open_source",
+    "link": "",
+    "name": "Return 5",
+    "plugin_instructions": "This is a test plugin. There's no need to install this."
+}

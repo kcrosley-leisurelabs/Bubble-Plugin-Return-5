@@ -1,0 +1,13 @@
+{
+    "category": "plugins",
+    "display": "Return 5",
+    "return_value": {
+        "AAD": {
+            "caption": "value",
+            "name": "value",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side"
+}
